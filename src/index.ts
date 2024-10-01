@@ -20,7 +20,8 @@ const db = {
         {id: 1, title: 'Back-end'},
         {id: 2, title: 'Front-end'},
         {id: 3, title: 'automation qa'},
-        {id: 4, title: 'devops'}
+        {id: 4, title: 'devops'},
+        {id: 5, title: 'game dev'}
     ]
 }
 
